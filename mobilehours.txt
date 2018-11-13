@@ -8,13 +8,13 @@
       "value": "6am - 9pm"
     },{
       "key": "SAT,",
-      "value": "6am - 9pm"
+      "value": "9am - 9pm"
     },{
       "key": "SUN,",
       "value": "9am - 12am"
     }
   ],
-  "message": "Go Highlanders!",
+  "message": "",
   "website": "recreation.ucr.edu",
   "email": "RecInfo@ucr.edu",
   "address1": "900 University Ave.",
