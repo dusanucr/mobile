@@ -16,6 +16,7 @@
   ],
   "message": "",
   "website": "recreation.ucr.edu",
+  "phone": "(951) 827-5738",
   "email": "RecInfo@ucr.edu",
   "address1": "900 University Ave.",
   "address2": "Riverside, CA 92521"
