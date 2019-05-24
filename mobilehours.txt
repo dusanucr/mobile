@@ -14,7 +14,7 @@
       "value": "9am - 12am"
     }
   ],
-  "message": "",
+  "message": "https://recreation.ucr.edu/hours#modifiedhours",
   "website": "recreation.ucr.edu",
   "phone": "(951) 827-5738",
   "email": "RecInfo@ucr.edu",
