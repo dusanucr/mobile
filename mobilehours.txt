@@ -2,7 +2,7 @@
   "hours": [
     {
       "key": "MON - THURS,",
-      "value": "6am - 12am"
+      "value": "6am - 11pm"
     },{
       "key": "FRI,",
       "value": "6am - 9pm"
@@ -11,7 +11,7 @@
       "value": "9am - 9pm"
     },{
       "key": "SUN,",
-      "value": "9am - 12am"
+      "value": "9am - 9pm"
     }
   ],
   "message": "https://recreation.ucr.edu/hours#modifiedhours",
