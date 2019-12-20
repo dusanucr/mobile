@@ -1,8 +1,8 @@
 {
   "hours": [
     {
-      "key": "SEE WEBSITE",
-      "value": ""
+      "key": "See Website",
+      "value": "for hours."
     },{
       "key": "",
       "value": ""
