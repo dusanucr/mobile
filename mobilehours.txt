@@ -1,7 +1,16 @@
 {
   "hours": [
     {
-      "key": "MODIFIED HOURS,",
+      "key": "SEE WEBSITE",
+      "value": ""
+    },{
+      "key": "",
+      "value": ""
+    },{
+      "key": "",
+      "value": ""
+    },{
+      "key": "",
       "value": ""
     }
   ],
